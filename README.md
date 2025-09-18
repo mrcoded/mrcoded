@@ -39,7 +39,6 @@
 ## 📊 GitHub Stats
 ![MrCoded's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrcoded&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrcoded&layout=compact&theme=radical)
-![CodedLibra's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=codedlibra)
 
 ---
 
